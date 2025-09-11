@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/bank1.png
+title: "Bank Database/UI"
+date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
+  - C
   - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Programming
+  - ICS 241
+summary: "I created a database that stored, added, and deleted user records in a databse using C and C++."
 ---
 
 <div class="text-center p-4">
