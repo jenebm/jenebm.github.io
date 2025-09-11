@@ -12,7 +12,9 @@ labels:
 summary: "Animated video featuring multiple original characters, parodying the 'Butcher Vanity' music video."
 ---
 
-
+<div class="text-center p-4">
+  <img width="400px" src="../img/butcher1.png" class="img-thumbnail" >
+</div>
 
 For this project, I created an animation for ArtFight, an annual art event where artists draw each other’s original characters for a month. The animation is a parody of the music video *Butcher Vanity*, with over 10 different OCs submitted by other participants.  
 
