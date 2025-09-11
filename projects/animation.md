@@ -18,6 +18,4 @@ Because this was my first endeavor with animation, I had to research what animat
 
 This project challenged me to balance creativity, accuracy, and efficiency, as I needed to design, sync, and animate multiple characters in a short timeframe. It also gave me practice in key-framing, and timing. You can watch the video below!
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=4dY_0Q_dmSI" allowfullscreen></iframe>
-</div>
+[Link to YouTube video](https://www.youtube.com/watch?v=4dY_0Q_dmSI)
