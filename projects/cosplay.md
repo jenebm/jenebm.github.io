@@ -16,47 +16,13 @@ summary: "Handmade outfit inspired from an existing IP, featuring a custom headp
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For this project, I set out to create a handmade costume of a character from a Korean game series. In order to do so I had to create the clock headpiece and the coat. Starting out, I had two major challenges, creating an appropriately sized clock head that allowed proper ventilation, that was visually accurate to the reference, and how I would draw and print out the various trimmings and logos onto a coat. I began researching materials and experimenting with different options before settling on a heavyweight EVA foam layer to set the structure and shape of the clock head. The choice of eva foam allowed me to easily wrap the foam into my desired shape, while also being rigid enough to not collapse in on itself.
 
-To give you a flavor of the game, here is an excerpt from one run:
+After constructing the base of the head, I had to solve another issue, which was: how would I be able to see out the clock head while also not being able to be seen from the outside; that is how do I hide my face? After a night of research I settled on a material called buckram, it was a mesh that obscured my face enough to not be seen from the outside, but allowed limited vision from the inside.
 
-<hr>
+The next challenge was how I would put the emblems, text, logos, and trimmings onto the coat without it looking like a 3-year old scribbled on it. Initially I had thought to meticulously cut out the logo from eva foam and super glue it on, but my aunt, who made custom shirts and accessories as a hobby, heard of my project and offered to help me. Through her, I communicated what I needed to do in order to finish the coat. The coat’s logos, text, and emblems were pressed on, and the trimmings were glued on.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+The final iteration was completed in time for the event I was taking it to, and with much more quality than I expected! I managed to wear the costume for hours at the event without issue, and received a very positive reception from other fans of the series. This project strengthened my skills in material research, planning, prop construction, and communication.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
