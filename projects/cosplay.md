@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/craft-vector-illustration-style_717774-17883.png
 title: "Costume Design & Construction"
 date: 2024
 published: true
