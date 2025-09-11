@@ -14,7 +14,9 @@ labels:
 summary: "Handmade outfit inspired from an existing IP, featuring a custom headpiece and tailored costume."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/dante1.jpg">
+<img class="img-fluid" src="../img/dante2.jpg">
+<img class="img-fluid" src="../img/dante3.jpg">
 
 For this project, I set out to create a handmade costume of a character from a Korean game series. In order to do so I had to create the clock headpiece and the coat. Starting out, I had two major challenges, creating an appropriately sized clock head that allowed proper ventilation, that was visually accurate to the reference, and how I would draw and print out the various trimmings and logos onto a coat. I began researching materials and experimenting with different options before settling on a heavyweight EVA foam layer to set the structure and shape of the clock head. The choice of eva foam allowed me to easily wrap the foam into my desired shape, while also being rigid enough to not collapse in on itself.
 
