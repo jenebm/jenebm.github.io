@@ -20,6 +20,7 @@ summary: "Handmade outfit inspired from an existing IP, featuring a custom headp
   <img src="../img/dante3.jpg" style="width: 33%; height: auto;">
 </div>
 
+
 For this project, I set out to create a handmade costume of a character from a Korean game series. In order to do so I had to create the clock headpiece and the coat. Starting out, I had two major challenges, creating an appropriately sized clock head that allowed proper ventilation, that was visually accurate to the reference, and how I would draw and print out the various trimmings and logos onto a coat. I began researching materials and experimenting with different options before settling on a heavyweight EVA foam layer to set the structure and shape of the clock head. The choice of eva foam allowed me to easily wrap the foam into my desired shape, while also being rigid enough to not collapse in on itself.
 
 After constructing the base of the head, I had to solve another issue, which was: how would I be able to see out the clock head while also not being able to be seen from the outside; that is how do I hide my face? After a night of research I settled on a material called buckram, it was a mesh that obscured my face enough to not be seen from the outside, but allowed limited vision from the inside.
