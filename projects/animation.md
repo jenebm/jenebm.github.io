@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/butcher1.png
 title: "Animation Project"
 date: 2025
 published: true
@@ -11,6 +11,8 @@ labels:
   - Digital Art
 summary: "Animated video featuring multiple original characters, parodying the 'Butcher Vanity' music video."
 ---
+
+
 
 For this project, I created an animation for ArtFight, an annual art event where artists draw each other’s original characters for a month. The animation is a parody of the music video *Butcher Vanity*, with over 10 different OCs submitted by other participants.  
 
