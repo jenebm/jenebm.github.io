@@ -17,7 +17,7 @@ labels:
 
 ## Foreword
 
-I hope my reasoning for choosing Dante's Inferno isn't too vague, but I like to believe that many ventures in most skills can be paralleled to Dante's journey. Each circle he passes through represents challenges and obstacles that must be overcome to progress further. In a similar way, learning software engineering—and any creative or technical pursuit, is filled with stages of trial, error and frustation, and eventual growth. Every mistake, bug, or failed attempt is its own “circle” to overcome.
+I like to believe that many ventures in most skills can be paralleled to Dante's journey in Dante's Inferno. Each circle he passes through represents challenges and obstacles that must be overcome to progress further. In a similar way, learning software engineering—and any creative or technical pursuit, is filled with stages of trial, error and frustation, and eventual growth. Every mistake, bug, or failed attempt is its own “circle” to overcome.
 
 ## Canto 1
 
