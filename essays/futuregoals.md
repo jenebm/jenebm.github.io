@@ -6,9 +6,10 @@ title: "Programmer's Divine Comedy"
 date: 2025-09-11
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - ICS 311
+  - Reflection
+  - Goals
+  - Career
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/inferno.jpg">
