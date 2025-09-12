@@ -6,9 +6,12 @@ title: "Love, Death, and WODs"
 date: 2025-09-11
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - ICS 311
+  - Reflection
+  - TypeScript
+  - JavaScript
+  - Athletic Software Engineering
+  - WODs
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/types.png">
