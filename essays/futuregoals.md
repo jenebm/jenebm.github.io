@@ -24,7 +24,7 @@ I’m going to be completely honest, if you had told me two years ago that I wou
 I decided to pick up art as a hobby, almost on a whim, as a New Year’s resolution. I’ve only been drawing for a little under two years, but in that short time, my desire to create has grown immensely. Ideas seemed to pour out of me, characters, environments, stories, animals, relationships. The only problem was figuring out how to bring them to life. I tried animation, but it was too confusing. Comics? I couldn’t figure out how to panel properly. Then I experimented with a very rudimentary visual novel, using HTML to display text alongside illustrations I had drawn.
 That’s when it clicked for me. I spent weeks on that small project, I realized this was the form of storytelling I enjoyed most. It combined creativity with structure, exactly the kind of problem solving I didn’t realize I was craving. That’s when I told my parents I wanted to switch my major to computer science. How did they take it? Well… 
 
-##Intervallo 1.5-2
+## Intervallo 1.5-2
 
 Why didn’t I just switch to an art major, you ask? Great question. I asked myself the same thing, I even asked friends, some hobbyists, and one in the industry. The answer I kept hearing was the same: to get into an art field, all you really need is a solid portfolio (and connections). So I thought, if a portfolio is what matters the most, why not pursue a major that gives me technical skills in an art-adjacent field? Computer science would allow me to combine creativity with logic, giving me the tools to bring my ideas to life in ways a traditional art program might not. By combining my interest in art with programming, I could explore digital storytelling, interactive media, and other creative projects.
 
