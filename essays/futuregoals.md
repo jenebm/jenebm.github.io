@@ -15,6 +15,10 @@ labels:
 
 *This is this, and that is that*
 
+## Foreword
+
+I hope my reasoning for choosing Dante's Inferno isn't too vague, but I like to believe that many ventures in most skills can be paralleled to Dante's journey. Each circle he passes through represents challenges and obstacles that must be overcome to progress further. In a similar way, learning software engineering—and any creative or technical pursuit, is filled with stages of trial, error and frustation, and eventual growth. Every mistake, bug, or failed attempt is its own “circle” to overcome.
+
 ## Canto 1
 
 I’m going to be completely honest, if you had told me two years ago that I would become a computer science student, I probably would have looked at you like a slack-jawed, front-facing fish. All my life, I actually wanted to become a Physical Therapist. Sure, I played video games like everyone else, but I never felt the urge to peek behind the screen. I never had a desire to create; I was always content with consuming. Funnily enough, what started nudging me toward creating wasn’t computer science itself, it was art!
