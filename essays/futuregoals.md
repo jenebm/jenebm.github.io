@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Jene's Inferno"
+title: "Programmer's Divine Comedy"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
 published: true
@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/inferno.jpg">
 
 This is this, and that is that
 
