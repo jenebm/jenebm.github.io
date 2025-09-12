@@ -15,7 +15,7 @@ labels:
 
 ## First Impressions
 
-I’ll be honest: I’m still a beginner when it comes to programming, so what I can offer is more like a cent than two. That being said, I find TypeScript to be a very pleasant extension of JavaScript. When I first learned that JavaScript was dynamically typed, my concern was whether I’d be able to read existing code easily without clear data types. Don’t get me wrong, I appreciated JavaScript’s simpler syntax compared to the verbosity of Java (I never quite got used to all the boilerplate in Java…). But I often wondered if “simpler” really meant “easier to understand.” That’s why TypeScript stood out to me, its static typing and defined data types gave me a sense of structure and peace of mind.
+I’ll be honest, I’m still a beginner when it comes to programming, so what I can offer is more like a cent than two. That being said, I find TypeScript to be a very pleasant extension of JavaScript. When I first learned that JavaScript was dynamically typed, my concern was whether I’d be able to read existing code easily without clear data types. Don’t get me wrong, I appreciated JavaScript’s simpler syntax compared to the verbosity of Java (I never quite got used to all the boilerplate in Java…). But I often wondered if “simpler” really meant “easier to understand.” That’s why TypeScript stood out to me, its static typing and defined data types gave me a sense of structure and peace of mind.
 
 ## TypeScript for Software Engineers
 
