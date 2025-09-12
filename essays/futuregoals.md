@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/inferno.jpg">
 
-This is this, and that is that
+*This is this, and that is that*
 
 ## Canto 1
 
@@ -38,5 +38,5 @@ Beyond just building projects, I also hope to grow as a programmer by not only l
 
 My hope for the future, beyond passing my classes, is to be able to continue creating projects that I enjoy. I’d like to get my boots on the ground in an entry-level programming position as well! From there, my dream is to get into a game studio, whether it be on the technical or artistic side.
 
-This is that, and that is this
+*This is that, and that is this*
 
