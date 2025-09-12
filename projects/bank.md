@@ -13,9 +13,10 @@ labels:
 summary: "I created a database that stored, added, and deleted user records in a databse using C and C++."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/snippet.png" class="img-thumbnail" >
-</div>
+<img src="../img/snippet.png" 
+     alt="Project snippet"
+     style="float: right; width: 300px; margin: 0 0 10px 20px;" 
+     class="img-thumbnail">
 
 ## ICS 212 Database Project
 
