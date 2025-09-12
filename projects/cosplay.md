@@ -29,5 +29,3 @@ The next challenge was how I would put the emblems, text, logos, and trimmings o
 
 The final iteration was completed in time for the event I was taking it to, and with much more quality than I expected! I managed to wear the costume for hours at the event without issue, and received a very positive reception from other fans of the series. This project strengthened my skills in material research, planning, prop construction, and communication.
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
