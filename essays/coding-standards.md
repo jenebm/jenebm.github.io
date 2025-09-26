@@ -12,11 +12,7 @@ labels:
   - VSCode
 ---
 
-*Placeholder image*
-
-
-
-*Placeholder image*
+<img width="300px" class="rounded float-start pe-4" src="../img/eslintimage.png">
 
 ## Introduction
 
