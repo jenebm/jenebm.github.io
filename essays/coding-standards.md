@@ -24,11 +24,15 @@ Coding standards, as the way it was introduced in this class, is a way to preven
 
 After my first week of using ESLint in VSCode, I went through the typical experience of picking up something new. Getting frustrated at trivial errors were a big pain point for me, here's a few of my thoughts going through ESLint for the first time.
 
-> *"I DID indent it why is it telling me I didn't?"*
-> *"I deleted it and indented again, why is it throwing an error STILL??"*
-> *"Are you serious. It uses double spaces??"*
-> *"Why do you care about what I name my variable?"*
-> *"Stop throwing an error at me, I AM going to use this function, just WAIT"*
+*"I DID indent it why is it telling me I didn't?"*  
+
+*"I deleted it and indented again, why is it throwing an error STILL??"*  
+
+*"Are you serious. It uses double spaces??"*  
+
+*"Why do you care about what I name my variable?"*  
+
+*"Stop throwing an error at me, I AM going to use this function, just WAIT"*
 
 As you can see I was very frustrated at the constant errors thrown at me during the coding process. It certainly did feel that the errors were like a chore to get rid of. But after cleaning up all the errors, I was presented with an extremely clean and streamlined piece of code. My code was extremely readable.
 
