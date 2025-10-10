@@ -13,7 +13,7 @@ labels:
   - CSS
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap5.jpg">
 
 ## Initial Thoughts
 
@@ -25,7 +25,7 @@ The biggest change in my workflow when using Bootstrap 5 was how much less tediu
 
 In fact, within a week of picking up Bootstrap I could make a recreation of a professionally built website (albeit a non-functional replica). The assignment required us to recreate two sections of a website of our choice. I had chose to recreate the xp-pen website. Below is my recreation of the website.
 
-<img src="../img/bootstrap.jpg" alt="My recreation of the XP-Pen website" width="800">
+<img src="../img/recreation.jpg" alt="My recreation of the XP-Pen website" width="800">
 
 
 Pretty good right? Well, at least I think so... It even has a functional drop down menu, and image carousel!
