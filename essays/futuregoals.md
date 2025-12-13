@@ -6,7 +6,7 @@ title: "Programmer's Divine Comedy"
 date: 2025-09-11
 published: true
 labels:
-  - ICS 311
+  - ICS 314
   - Reflection
   - Goals
   - Career

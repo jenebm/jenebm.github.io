@@ -6,7 +6,7 @@ title: "Love, Death, and WODs"
 date: 2025-09-11
 published: true
 labels:
-  - ICS 311
+  - ICS 314
   - Reflection
   - TypeScript
   - JavaScript

@@ -6,7 +6,7 @@ title: "Navbar Mania"
 date: 2025-10-09
 published: true
 labels:
-  - ICS 311
+  - ICS 314
   - Reflection
   - Boostrap5
   - HTML

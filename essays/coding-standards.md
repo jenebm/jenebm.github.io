@@ -6,7 +6,7 @@ title: "ESLint: Is this Rage Bait?"
 date: 2025-09-25
 published: true
 labels:
-  - ICS 311
+  - ICS 314
   - Reflection
   - ESLint
   - VSCode
