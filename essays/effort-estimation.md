@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How to Make Incredibly Solid Estimates 101"
+title: "Effort Estimation vs. Actual Effort"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
 published: true
@@ -14,8 +14,6 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/its_time.jpg">
-
-TL;DR: It was gut feeling
 
 ## An Analysis on My Perceived and Actual Effort
 
