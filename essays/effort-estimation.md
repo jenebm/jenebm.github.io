@@ -19,11 +19,13 @@ labels:
 
 For this software engineering final project, we were tasked with estimating and recording the time spent on issues posted by us in our project board. This essay serves as an analysis of my personal practices relating to this topic during the project.
 
-## Tracking
+## Estimations
 
 To be honest, I made my effort estimates based off gut feeling. Albeit a gut feeling based off of previous coding or coding-adjacent assignments/projects I've done in the past. For example, I based the amount of time it would take me to implement a edit field form based on the amount of time it took me to complete a similar edit field assignment we've done in ICS 314.
 
 That being said, it was still a gut feeling, and a lot of the times I underestimated the time it would take me. There were multiple instances where I was either 10 or an entire 30 minutes over my estimate.
+
+## Actually Tracking
 
 I believe tracking my estimates proved useful in organizing my thoughts. It allowed me to break down what I would think would be a daunting 24 hour long task, into easy-to-digest portions of that task.
 
