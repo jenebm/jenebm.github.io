@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhconnect_icon.png
+image: img/uhconnect_icon1.png
 title: "UHConnect"
 date: 2025
 published: true
