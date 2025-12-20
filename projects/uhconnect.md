@@ -14,16 +14,31 @@ labels:
 summary: "A social media application that connects University of Hawaii gamers."
 ---
 
-<div class="text-center p-4">
-  <img src="../img/uhconnect.png" 
-       alt="Project snippet" 
-       class="img-thumbnail"
-       style="width: 500px; max-width: 100%;">
+<div class="container py-4">
+  <div class="row g-3 justify-content-center">
+
+    <div class="col-12 col-md-6 text-center">
+      <img
+        src="../img/uhconnect.png"
+        alt="UHConnect main interface"
+        class="img-fluid img-thumbnail"
+      >
+    </div>
+
+    <div class="col-12 col-md-6 text-center">
+      <img
+        src="../img/uhconnect2.png"
+        alt="UHConnect icon"
+        class="img-fluid img-thumbnail"
+      >
+    </div>
+
+  </div>
 </div>
 
 ## Project Overview
 
-UHConnect is a social media-based web application that helps student gamers at UH campuses discover and connect with other students. The web application offers common social media functionality such as: follower/following count, post creation, and profile customization. Additionally, there is a user search engine that filters users based on relevant games, interests, and hobbies.
+UHConnect is a social media-based web application that helps student gamers at UH campuses discover and connect with other students. The web application offers common social media functionality such as: follower/following count, post creation, profile customization, and event hosting. Additionally, there is a user search engine that filters users based on relevant games, interests, and hobbies.
 
 This web application was a final project for me and my other group members for my ICS 314 Software Engineering class. The tech stack used for this project was chosen based on what we learned in class. On the frontend we utilized React and Typescript, for the backend we used Next.js and Prisma. For deployment we made use of Vercel and Vercel's Neon PostgreSQL as our database.
 
