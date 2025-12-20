@@ -15,7 +15,7 @@ summary: "A social media application that connects University of Hawaii gamers."
 ---
 
 <div class="text-center p-4">
-  <img src="../img/snippet.png" 
+  <img src="../img/uhconnect.png" 
        alt="Project snippet" 
        class="img-thumbnail"
        style="width: 500px; max-width: 100%;">
