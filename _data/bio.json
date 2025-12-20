@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Next.js", "Prisma ORM", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Vercel" ]
     }
   ],
   "education": [
@@ -40,15 +40,6 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
- 
-  ],
-  "volunteer": [
-
-  ],
-  "awards": [
-
   ],
   "references": [
     {
