@@ -111,7 +111,7 @@ layout: home
     </div>
     {% endif %}
 
-    {% if site.data.bio.work %}
+    {% if site.data.bio.work and site.data.bio.work.size > 0 %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Work</h1>
@@ -154,7 +154,7 @@ layout: home
     </div>
     {% endif %}
 
-    {% if site.data.bio.volunteer %}
+    {% if site.data.bio.volunteer and site.data.bio.volunteer.size > 0 %}
       <div class="row pt-4 align-items-start">
         <div class="col-lg-3">
           <h1 class="display-6 text-start m-0">Activities</h1>
@@ -197,7 +197,7 @@ layout: home
       </div>
     {% endif %}
 
-    {% if site.data.bio.awards %}
+    {% if site.data.bio.awards and site.data.bio.awards.size > 0 %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Awards</h1>
