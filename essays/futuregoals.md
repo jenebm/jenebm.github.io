@@ -4,7 +4,7 @@ type: essay
 title: "Programmer's Divine Comedy"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: true
+published: false
 labels:
   - ICS 314
   - Reflection
