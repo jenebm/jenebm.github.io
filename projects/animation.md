@@ -4,7 +4,7 @@ type: project
 image: img/butcher1.png
 title: "Animation Project"
 date: 2025
-published: true
+published: false
 labels:
   - Animation
   - Storyboarding
